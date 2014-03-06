@@ -6,10 +6,10 @@
 
 ## changelog
 
-### V1.4
+### V1.5
 
-    [!]添加适配器，提供更安全的环境:指定操作范围参数el。
-    [!]修复add 、remove 、modify方法。
+    [!]添加skip、unskip方法，可以对某个field的校验规则过滤（跳过验证该规则）
+    [!]允许在校验过程中disable某个field，从而结束/开启该field的后续规则校验
 
 ## 综述
 
@@ -230,6 +230,18 @@
  <td>禁用/启用某个域</td>
  <td> </td>
  </tr>
+ <tr>
+  <td>skip</td>
+  <td>(field,index)<br/>index[Array|String] </td>
+  <td>跳过某个校验项</td>
+  <td> </td>
+  </tr>
+  <tr>
+    <td>unskip</td>
+    <td>(field,index)<br/>index[Array|String] </td>
+    <td>开启之前跳过某个校验项</td>
+    <td> </td>
+    </tr>
  <tr>
  <td>reset</td>
  <td>(field)<br/>field要重置的域，不传时为所有域
