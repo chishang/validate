@@ -1,8 +1,8 @@
 ## verify
 
-* 版本：1.4
-* 教程：[http://gallery.kissyui.com/verify/1.4/guide/index.html](http://gallery.kissyui.com/verify/1.4/guide/index.html)
-* demo：[http://gallery.kissyui.com/verify/1.4/demo/index.html](http://gallery.kissyui.com/verify/1.4/demo/index.html)
+* 版本：1.5
+* 教程：[http://gallery.kissyui.com/verify/1.5/guide/index.html](http://gallery.kissyui.com/verify/1.5/guide/index.html)
+* demo：[http://gallery.kissyui.com/verify/1.5/demo/index.html](http://gallery.kissyui.com/verify/1.5/demo/index.html)
 
 ## changelog
 
@@ -25,7 +25,7 @@
 
 ### 初始化组件
 
-      S.use('gallery/verify/1.4/index', function (S, verify) {
+      S.use('gallery/verify/1.5/index', function (S, verify) {
               var verify = new verify('#J_Container1',{
                   fields:{
                       name: [

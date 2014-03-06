@@ -50,10 +50,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="abc.json" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="abc.json" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/abc.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="19" selection-start="43" selection-end="43" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="300">
+            <state line="2" column="19" selection-start="43" selection-end="43" vertical-scroll-proportion="0.03963012" vertical-offset="0" max-vertical-offset="757">
               <folding />
             </state>
           </provider>
@@ -88,10 +88,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="240" column="10" selection-start="4421" selection-end="4421" vertical-scroll-proportion="0.8582996" vertical-offset="2964" max-vertical-offset="4380">
+            <state line="9" column="0" selection-start="280" selection-end="280" vertical-scroll-proportion="-1.6666666" vertical-offset="0" max-vertical-offset="4380">
               <folding />
             </state>
           </provider>
@@ -141,12 +141,12 @@
         <option value="$PROJECT_DIR$/1.3/index.css" />
         <option value="$PROJECT_DIR$/1.2/index.css" />
         <option value="$PROJECT_DIR$/1.4/index.css" />
-        <option value="$PROJECT_DIR$/abc.json" />
         <option value="$PROJECT_DIR$/1.4/demo/index.html" />
         <option value="$PROJECT_DIR$/1.5/build/index-min.js" />
         <option value="$PROJECT_DIR$/1.5/index.js" />
         <option value="$PROJECT_DIR$/1.5/demo/index.html" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/abc.json" />
       </list>
     </option>
   </component>
@@ -196,38 +196,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="verify" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="verify" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="verify" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1.5" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="verify" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="verify" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1.5" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="demo" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -457,13 +425,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/abc.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="19" selection-start="43" selection-end="43" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="300">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1.4/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="282" column="24" selection-start="9961" selection-end="9961" vertical-scroll-proportion="0.0" vertical-offset="4230" max-vertical-offset="7410">
@@ -503,12 +464,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="240" column="10" selection-start="4421" selection-end="4421" vertical-scroll-proportion="0.8582996" vertical-offset="2964" max-vertical-offset="4380">
+        <state line="9" column="0" selection-start="280" selection-end="280" vertical-scroll-proportion="-1.6666666" vertical-offset="0" max-vertical-offset="4380">
           <folding />
         </state>
       </provider>
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/abc.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="19" selection-start="43" selection-end="43" vertical-scroll-proportion="0.03963012" vertical-offset="0" max-vertical-offset="757">
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>
